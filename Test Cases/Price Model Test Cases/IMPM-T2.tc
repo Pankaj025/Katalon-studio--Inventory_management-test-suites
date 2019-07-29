@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Add price with valide inputs, Keep on Adding OFF}</description>
+   <name>IMPM-T2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd042600-a471-42a3-89a9-bd5e4a8e9bab</testCaseGuid>
+</TestCaseEntity>

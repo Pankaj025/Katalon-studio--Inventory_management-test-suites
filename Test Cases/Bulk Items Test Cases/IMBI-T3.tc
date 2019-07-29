@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Add Bulk item with valide inputs with keep on adding On}</description>
+   <name>IMBI-T3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>690d797f-6cad-44d8-9d8d-127bfc9a4330</testCaseGuid>
+</TestCaseEntity>

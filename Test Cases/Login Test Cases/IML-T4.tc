@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Invalide User Name , Valide Password}</description>
+   <name>IML-T4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>336898ea-d1f4-4cff-8508-0c8793f0a2fd</testCaseGuid>
+</TestCaseEntity>

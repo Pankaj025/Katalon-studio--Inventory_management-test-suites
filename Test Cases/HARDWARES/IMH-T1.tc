@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Add Bulk Item With Blank Name, Check Mandatory Field}</description>
+   <name>IMH-T1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e66c8c7-9eac-4de0-b6cd-fac4baa981fc</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Hardware Order complete flow till return received and complete.}</description>
+   <name>IMO-T7</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8e5bf37-3f0f-4ca3-bcbd-933e7ed67c7b</testCaseGuid>
+</TestCaseEntity>

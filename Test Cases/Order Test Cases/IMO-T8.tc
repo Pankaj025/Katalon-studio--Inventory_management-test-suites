@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Place Bulk item order with valide inputs}</description>
+   <name>IMO-T8</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f82b7bb-1441-4ddb-a4b8-06609063533c</testCaseGuid>
+</TestCaseEntity>

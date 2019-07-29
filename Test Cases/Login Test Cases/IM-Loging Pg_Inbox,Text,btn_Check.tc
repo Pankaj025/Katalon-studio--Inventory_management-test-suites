@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifying IM Loging Page.</description>
+   <name>IM-Loging Pg_Inbox,Text,btn_Check</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>03af860f-848f-423f-9da5-a5c358c3f536</testCaseGuid>
+</TestCaseEntity>

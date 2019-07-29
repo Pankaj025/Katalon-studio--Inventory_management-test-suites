@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Delete Hardware Type}</description>
+   <name>IMHT-T8</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>491d3597-2e4b-4ccb-b078-7995c3535708</testCaseGuid>
+</TestCaseEntity>

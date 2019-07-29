@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Add Hardware with valide inpute, keep on adding off}</description>
+   <name>IMH-T3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d49d1881-ffd3-4836-ba4e-e223b6e17dc4</testCaseGuid>
+</TestCaseEntity>

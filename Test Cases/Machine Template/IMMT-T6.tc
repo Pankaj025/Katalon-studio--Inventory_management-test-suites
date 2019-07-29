@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Delete price model}</description>
+   <name>IMMT-T6</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2fcae18c-d161-4c73-a723-41d552b7040d</testCaseGuid>
+</TestCaseEntity>

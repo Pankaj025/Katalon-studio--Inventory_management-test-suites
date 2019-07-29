@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Add Stakeholder On Vendor Role}</description>
+   <name>IMS-T5</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46c4b89c-65a6-45b3-92b2-eabbf4e97068</testCaseGuid>
+</TestCaseEntity>

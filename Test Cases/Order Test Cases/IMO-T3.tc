@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Place hardware order with valide inputs}</description>
+   <name>IMO-T3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb46232f-95dc-499e-9df3-f2d9d87969be</testCaseGuid>
+</TestCaseEntity>

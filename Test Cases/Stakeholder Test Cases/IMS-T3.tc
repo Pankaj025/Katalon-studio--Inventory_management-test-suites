@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Add Stakeholder With Valide Inputs (OFF-Keep On Adding)}</description>
+   <name>IMS-T3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb3dfae7-1cad-423b-9d86-ea47539cc2d0</testCaseGuid>
+</TestCaseEntity>

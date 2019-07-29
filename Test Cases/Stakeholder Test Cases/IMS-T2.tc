@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Add Stakeholder WIth Valide Name, Blank Country Input}</description>
+   <name>IMS-T2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebf6c5d4-1ed5-4864-add9-9b003df341fb</testCaseGuid>
+</TestCaseEntity>

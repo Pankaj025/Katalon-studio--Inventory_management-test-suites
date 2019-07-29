@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Place Order With No Inputs, Check Mandatory Field}</description>
+   <name>IMO-T1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4693510f-04cd-466f-9dec-4726642e0b7c</testCaseGuid>
+</TestCaseEntity>

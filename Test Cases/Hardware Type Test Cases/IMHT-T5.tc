@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Add composite hardware type with valide inputs}</description>
+   <name>IMHT-T5</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>671111e6-ca44-47da-987e-20b35a13274d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Delete User}</description>
+   <name>IMU-T8</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6f8f365-ff40-4e74-9e92-40d13bfebedb</testCaseGuid>
+</TestCaseEntity>

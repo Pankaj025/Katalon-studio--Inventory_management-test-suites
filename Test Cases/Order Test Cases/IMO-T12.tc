@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Make received back hardware availabel to resend}</description>
+   <name>IMO-T12</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d75de43-9877-472e-ae0c-eb9649ff22e0</testCaseGuid>
+</TestCaseEntity>

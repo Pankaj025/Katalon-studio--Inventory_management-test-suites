@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Edit Stakeholder With Delete Mandate Entry}</description>
+   <name>IMS-T8</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>825fca2b-282c-4908-851e-a3a8b008ea32</testCaseGuid>
+</TestCaseEntity>

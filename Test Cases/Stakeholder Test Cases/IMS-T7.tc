@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Create Duplicate Entry By Add/Edit}</description>
+   <name>IMS-T7</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac5760fd-0283-477c-97a0-7c6cab7715c0</testCaseGuid>
+</TestCaseEntity>

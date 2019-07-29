@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Create duplicate entry}</description>
+   <name>IMMT-T4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5336322c-288c-4325-9531-3a78e4d32ac4</testCaseGuid>
+</TestCaseEntity>

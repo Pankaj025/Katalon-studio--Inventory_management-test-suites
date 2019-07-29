@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Add Hardware in Bulk with Keep on adding On}</description>
+   <name>IMH-T7</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa032c9b-0df9-4f6a-9184-15fd4771a807</testCaseGuid>
+</TestCaseEntity>

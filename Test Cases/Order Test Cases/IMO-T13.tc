@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Order Placed for composit hardware and template/dispatch/received}</description>
+   <name>IMO-T13</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c94ee23-5535-4dab-a95c-a42b8302f7ad</testCaseGuid>
+</TestCaseEntity>

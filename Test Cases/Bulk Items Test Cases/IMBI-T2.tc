@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Add Bulk item with valide inputs}</description>
+   <name>IMBI-T2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc8a2bb1-72fc-4cea-8532-5a65634f4051</testCaseGuid>
+</TestCaseEntity>

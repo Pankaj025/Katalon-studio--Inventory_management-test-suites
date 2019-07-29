@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Add Composite hardware}</description>
+   <name>IMH-T4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef0b5a9a-fe23-4663-8259-ae446c8e8353</testCaseGuid>
+</TestCaseEntity>

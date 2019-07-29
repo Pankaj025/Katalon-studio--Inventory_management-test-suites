@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Add template with valide inputs, Keep on Adding OFF}</description>
+   <name>IMMT-T2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>36817971-7cab-4913-a983-8ca75d75e432</testCaseGuid>
+</TestCaseEntity>

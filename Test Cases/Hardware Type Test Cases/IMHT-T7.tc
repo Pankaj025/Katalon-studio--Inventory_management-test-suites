@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Add hardware type for duplicate entry}</description>
+   <name>IMHT-T7</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1fc0cc84-2fe2-43c2-b2b5-28f28a028ebc</testCaseGuid>
+</TestCaseEntity>

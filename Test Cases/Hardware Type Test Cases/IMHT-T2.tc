@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Add Hardware type with no Inputs}</description>
+   <name>IMHT-T2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3337553c-cb19-4586-aed2-c8befe515159</testCaseGuid>
+</TestCaseEntity>

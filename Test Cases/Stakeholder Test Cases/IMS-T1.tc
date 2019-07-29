@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Add Stakeholder With Blank Name, Check Mandatory Field}</description>
+   <name>IMS-T1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb869d0e-bc9e-4deb-a2c5-eec8a47847ba</testCaseGuid>
+</TestCaseEntity>

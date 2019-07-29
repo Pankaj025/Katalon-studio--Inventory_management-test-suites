@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Create duplicate entry}</description>
+   <name>IMPM-T4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd46976f-d83d-41bc-a370-241554ee41ff</testCaseGuid>
+</TestCaseEntity>

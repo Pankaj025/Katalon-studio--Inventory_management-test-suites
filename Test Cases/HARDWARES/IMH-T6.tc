@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>{Edit Hardware}</description>
+   <name>IMH-T6</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2c130b7-57fa-40ff-9b8e-f40d43572e7c</testCaseGuid>
+</TestCaseEntity>
